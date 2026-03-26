@@ -1,28 +1,10 @@
 <h1>Active Directory Home Lab in Azure</h1>
 
 <h2>Description</h2>
-What I Did
-Set Up Cloud Infrastructure
-Created a Resource Group in Azure to organize lab resources
-Deployed a Windows Server 2022 VM
-Configured networking and enabled RDP access
-Configured the Server
-Connected via Remote Desktop
-Renamed the server to DC01
-Installed roles using Server Manager
-Deployed Active Directory
-Installed Active Directory Domain Services (AD DS)
-Promoted the server to a Domain Controller
-Created the homelab.local domain
-Managed Users and Organizational Units
-Created OUs (IT, HR, Sales)
-Added and managed users
-Practiced account provisioning and password resets
-Simulated a Client Environment
-Deployed a Windows client VM
-Joined it to the domain
-Tested authentication and login scenarios
-
+What I Did:
+<li>
+  Built a cloud-based Windows Server 2022 home lab in <strong>Microsoft Azure</strong>, deploying and configuring a Domain Controller with Active Directory Domain Services (AD DS), creating a custom domain (<code>homelab.local</code>), managing users and Organizational Units (OUs), implementing Group Policy Objects (GPOs), and joining a Windows client VM to simulate a real-world enterprise IT environment.
+</li>
 
 <p align="center">
 
