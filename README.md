@@ -11,5 +11,6 @@
   <ol></ol>
 
   <img src="img/Screenshot 2026-03-26 at 4.24.10 PM.png">
+  <h4>The completed Server Manager setup</h4>
 </li>
 
